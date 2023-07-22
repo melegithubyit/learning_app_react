@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/learning_app_react/static/css/main.d0715f9b.css",
+    "main.js": "/learning_app_react/static/js/main.ca1283fa.js",
+    "static/js/787.8331e6e4.chunk.js": "/learning_app_react/static/js/787.8331e6e4.chunk.js",
+    "static/media/course.png": "/learning_app_react/static/media/course.010d2ac10ce81f3c7c0d.png",
+    "static/media/ein1.png": "/learning_app_react/static/media/ein1.4480033a6e148547a76b.png",
+    "static/media/image1.jpg": "/learning_app_react/static/media/image1.4668aae8dbafecfe96e2.jpg",
+    "static/media/image2.jpg": "/learning_app_react/static/media/image2.6f767f9a5173957e4744.jpg",
+    "static/media/image4.jpg": "/learning_app_react/static/media/image4.aa1e0a9875b8472ef221.jpg",
+    "static/media/study.png": "/learning_app_react/static/media/study.eade0940d3e1c2448a37.png",
+    "static/media/image3.jpg": "/learning_app_react/static/media/image3.1f0cbadd922c5b522647.jpg",
+    "static/media/ein2.png": "/learning_app_react/static/media/ein2.7e9fe36e985ff9fec725.png",
+    "static/media/image5.jpg": "/learning_app_react/static/media/image5.af8a4af706072f219fca.jpg",
+    "static/media/ein3.png": "/learning_app_react/static/media/ein3.b43dd07fb73d1dbf9622.png",
+    "static/media/people.png": "/learning_app_react/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "index.html": "/learning_app_react/index.html",
+    "main.d0715f9b.css.map": "/learning_app_react/static/css/main.d0715f9b.css.map",
+    "main.ca1283fa.js.map": "/learning_app_react/static/js/main.ca1283fa.js.map",
+    "787.8331e6e4.chunk.js.map": "/learning_app_react/static/js/787.8331e6e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0715f9b.css",
+    "static/js/main.ca1283fa.js"
+  ]
+}
